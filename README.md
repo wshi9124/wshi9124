@@ -5,7 +5,6 @@
 ######
 [Github Link](https://github.com/wshi9124/BK-Fish-Market) | [Deployed Link](http://54.152.24.233:4000/home)
 
-# Park-O (Park event organizer)
 **Park-O**- social media site where users can organize park sporting events. This website features a real time messaging system that utilizes websockets and an access system where event admins can accept or decline members to their events. 
 ######
 [Github Link](https://github.com/wshi9124/Sports-park-organizer) | [Demo Video](https://youtu.be/Z8HKBXoNswg)
