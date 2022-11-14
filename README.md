@@ -3,7 +3,7 @@ I code...
 ######
 I am currently studying data structures and algorithms
 ######
-Hobbies: Basketball 🏀, cooking 🧑🏻‍🍳, dragon boat 🚣, coding 👨🏻‍💻
+Hobbies: Basketball 🏀, Cooking 🧑🏻‍🍳, Dragon Boat 🚣, Badminton 🏸, Traveling ✈️, coding 👨🏻‍💻 
 ######
 Email: wshi9124@gmail.com | [LinkedIn](https://www.linkedin.com/in/willie-shi-520798149/)
 
