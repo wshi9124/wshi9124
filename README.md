@@ -9,6 +9,10 @@
 ######
 [Github Link](https://github.com/wshi9124/Sports-park-organizer) | [Demo Video](https://youtu.be/Z8HKBXoNswg)
 
+**Portfolio Tracker**- stock trading platform simulator where users can search, organize, and research their personal stock holdings. 
+######
+[Github Link](https://github.com/wshi9124/Portfolio-Tracker-) | [Demo Video](https://youtu.be/juVxJYn8nlE)
+
 <!--
 **wshi9124/wshi9124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
