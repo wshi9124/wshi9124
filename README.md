@@ -13,6 +13,10 @@
 ######
 [Github Link](https://github.com/wshi9124/Portfolio-Tracker-) | [Demo Video](https://youtu.be/juVxJYn8nlE)
 
+**Pokémon Team Builder**- first project I made using vanilla JavaScript where users can build their own Pokémon teams.
+
+[Github Link](https://github.com/wshi9124/Pokemon-Team-Builder) | [Demo Video](https://youtu.be/EyGGHUOkxjY)
+
 <!--
 **wshi9124/wshi9124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
