@@ -1,5 +1,4 @@
-**** 
-Featured Projects
+* Featured Projects
 
 
 <!--
