@@ -5,7 +5,7 @@ I am currently studying data structures and algorithms
 ######
 Hobbies: Basketball 🏀, Cooking 🧑🏻‍🍳, Dragon Boat 🚣, Badminton 🏸, Traveling ✈️, coding 👨🏻‍💻 
 ######
-Email: wshi9124@gmail.com | [LinkedIn](https://www.linkedin.com/in/willie-shi-520798149/)
+Contact me: wshi9124@gmail.com | [LinkedIn](https://www.linkedin.com/in/willie-shi-520798149/)
 
 
 ## Featured Projects
