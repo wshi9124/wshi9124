@@ -1,4 +1,10 @@
 ## Hi, Im Willie 👋
+I code...
+######
+I am currently working on studying data structures and algorithms
+######
+Hobbies: Basketball 🏀, cooking 🧑🏻‍🍳, dragon boat 🚣, coding 👨🏻‍💻
+
 
 ## Featured Projects
 **BK Fish Market**- e-commerce site based on the needs and demands of a real client to promote their business. It includes both a user side to purchase products and an admin interface to edit, add, and deactivate products. 
