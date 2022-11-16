@@ -1,7 +1,7 @@
 ## Hi, Im Willie 👋
 I code...
 ######
-I am currently studying data structures and algorithms
+I am currently studying data structures and algorithms [notes](https://github.com/wshi9124/data-structures-and-algorithm-notes)
 ######
 Hobbies: Basketball 🏀, Cooking 🧑🏻‍🍳, Dragon Boat 🚣, Badminton 🏸, Traveling ✈️, Coding 👨🏻‍💻 
 ######
