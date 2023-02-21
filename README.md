@@ -12,7 +12,7 @@ Contact me: wshi9124@gmail.com | [LinkedIn](https://www.linkedin.com/in/willie-s
 <img align="left" alt="TypeScript" width="37px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="React" width="37px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="Python" width="37px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
-<img align="left" alt="Ruby" width="37px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
+<img align="left" alt="Ruby" width="37px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg" />
 <img align="left" alt="Java" width="37px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
 <img align="left" alt="HTML" width="37px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
 <img align="left" alt="CSS" width="37px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
@@ -26,7 +26,7 @@ Contact me: wshi9124@gmail.com | [LinkedIn](https://www.linkedin.com/in/willie-s
 <img align="left" alt="GitHub" width="37px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
 
 #
-#
+######
 
 
 ### Featured Projects
