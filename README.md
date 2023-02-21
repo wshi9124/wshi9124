@@ -25,6 +25,6 @@ Contact me: wshi9124@gmail.com | [LinkedIn](https://www.linkedin.com/in/willie-s
 
 [Github Link](https://github.com/wshi9124/Pokemon-Team-Builder) | [Demo Video](https://youtu.be/EyGGHUOkxjY)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=wshi9124&repo=github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wshi9124)](https://github.com/wshi9124/github-readme-stats) 
 
 
