@@ -8,7 +8,7 @@ Hobbies: Basketball 🏀, Cooking 🧑🏻‍🍳, Dragon Boat 🚣, Badminton �
 Contact me: wshi9124@gmail.com | [LinkedIn](https://www.linkedin.com/in/willie-shi-520798149/) | [Blog](https://dev.to/wshi9124)
 
 ### 🧰 Languages and Tools
-<img align="left" alt="JavaScript" width="45px" style="padding-right:10px, padding-bottom:30px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="JavaScript" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="React" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
 <img align="left" alt="Python" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" />
@@ -24,7 +24,6 @@ Contact me: wshi9124@gmail.com | [LinkedIn](https://www.linkedin.com/in/willie-s
 <img align="left" alt="Material" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <img align="left" alt="Git" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 <img align="left" alt="GitHub" width="45px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
-<br /><br />
 
 
 
