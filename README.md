@@ -1,4 +1,5 @@
 ## Hi, Im Willie 👋
+<img src="https://komarev.com/ghpvc/?username=your-github-wshi9124&style=flat-square&color=blue" alt=""/>
 I code...
 ######
 I am currently studying data structures and algorithms, as well as system design | [Notes [updated daily]](https://github.com/wshi9124/data-structures-algorithms-and-system-design-notes)
