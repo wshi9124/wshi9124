@@ -1,11 +1,13 @@
 ## Hello World, Im Willie 👋 
 
  <img align="right" width="325px" height="250px" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
-I am a full stack software 
+ 
+I am a full stack software engineer based in NYC. Besides coding, I enjoy hobbies such as Basketball 🏀, Cooking 🧑🏻‍🍳, Dragon Boat 🚣, Badminton 🏸, and Traveling ✈️. I am currently studying everyday to achieve my goal of becoming a better engineer day by day. 
 ######
-I am currently studying data structures and algorithms, as well as system design | [Notes [updated daily]](https://github.com/wshi9124/data-structures-algorithms-and-system-design-notes)
-######
-Hobbies: Basketball 🏀, Cooking 🧑🏻‍🍳, Dragon Boat 🚣, Badminton 🏸, Traveling ✈️, Coding 👨🏻‍💻 
+Below is where I keep my notes that I update daily. Notes include topics such as data structures/ algorithms, system design, SQL, Git commands and more:
+<br/>
+[Notes [updated daily]](https://github.com/wshi9124/data-structures-algorithms-and-system-design-notes)
+
 ######
 Contact me: wshi9124@gmail.com | [LinkedIn](https://www.linkedin.com/in/willie-shi-520798149/) | [Blog](https://dev.to/wshi9124)
 
