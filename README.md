@@ -1,6 +1,6 @@
- <img align="right" width="325px" height="250px" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
- 
 ## Hello World, Im Willie 👋 
+
+ <img align="right" width="325px" height="250px" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 I am a full stack software 
 ######
 I am currently studying data structures and algorithms, as well as system design | [Notes [updated daily]](https://github.com/wshi9124/data-structures-algorithms-and-system-design-notes)
