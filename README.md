@@ -1,4 +1,4 @@
- <img align="right" width="350px" height="325px" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+ <img align="right" width="325px" height="275px" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
  
 ## Hello World, Im Willie 👋
 I am a full stack software 
