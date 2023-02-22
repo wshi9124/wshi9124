@@ -1,4 +1,4 @@
-### Hello World, Im Willie 👋
+## Hello World, Im Willie 👋
 I code...
 ######
 I am currently studying data structures and algorithms, as well as system design | [Notes [updated daily]](https://github.com/wshi9124/data-structures-algorithms-and-system-design-notes)
@@ -7,7 +7,7 @@ Hobbies: Basketball 🏀, Cooking 🧑🏻‍🍳, Dragon Boat 🚣, Badminton �
 ######
 Contact me: wshi9124@gmail.com | [LinkedIn](https://www.linkedin.com/in/willie-shi-520798149/) | [Blog](https://dev.to/wshi9124)
 
-### Languages and Tools
+## Languages and Tools
 <img align="left" alt="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
 <img align="left" alt="TypeScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
 <img align="left" alt="React" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
@@ -31,7 +31,7 @@ Contact me: wshi9124@gmail.com | [LinkedIn](https://www.linkedin.com/in/willie-s
 <br/>
 <br/>
 
-### Featured Projects
+## Featured Projects
 **BK Fish Market**- e-commerce site based on the needs and demands of a real client to promote their business. It includes both a user side to purchase products and an admin interface to edit, add, and deactivate products. 
 <br/>
 [Github Link](https://github.com/wshi9124/BK-Fish-Market) | [Deployed Link](http://54.152.24.233:4000/home)
@@ -56,7 +56,7 @@ Contact me: wshi9124@gmail.com | [LinkedIn](https://www.linkedin.com/in/willie-s
 <br/>
 [<img alt="PortfolioTracker" width="400px" src="https://user-images.githubusercontent.com/104730743/196293854-a3635144-4c8e-4311-993a-3e05475ce817.png" />](https://www.youtube.com/watch?v=EyGGHUOkxjY&ab_channel=WillieShi)
 
-### Stats
+## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wshi9124&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Willie's GitHub stats](https://github-readme-stats.vercel.app/api?username=wshi9124&show_icons=true&theme=radical)
