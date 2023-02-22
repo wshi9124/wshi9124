@@ -1,5 +1,5 @@
 ## Hello World, Im Willie 👋 
- <img align="right" width="325px" height="250px" style="margin-right: 10px" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+ <img align="right" width="325px" height="250px" style="margin-top: 100px" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
  
 I am a full stack software engineer based in NYC. Besides coding, I enjoy hobbies such as Basketball 🏀, Cooking 🧑🏻‍🍳, Dragon Boat 🚣, Badminton 🏸, and Traveling ✈️. I am currently studying everyday to achieve my goal of becoming a better engineer day by day. 
 ######
