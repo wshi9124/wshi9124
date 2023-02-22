@@ -34,6 +34,7 @@ Contact me: wshi9124@gmail.com | [LinkedIn](https://www.linkedin.com/in/willie-s
 <br/>
 <br/>
 <br/>
+<br/>
 
 ## Featured Projects
 **BK Fish Market**- e-commerce site based on the needs and demands of a real client to promote their business. It includes both a user side to purchase products and an admin interface to edit, add, and deactivate products. 
