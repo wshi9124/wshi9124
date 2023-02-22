@@ -1,6 +1,8 @@
 ## Hello World, Im Willie 👋 
 <img align="right" width="310px" height="260px" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
+<br/>
+
 I am a full stack software engineer based in NYC. Besides coding, I enjoy hobbies such as Basketball 🏀, Cooking 🧑🏻‍🍳, Dragon Boat 🚣, Badminton 🏸, and Traveling ✈️. I am currently studying everyday to achieve my goal of becoming a better engineer day by day. 
 ######
 Below is where I keep my notes that I update daily. Notes include topics such as data structures/ algorithms, system design, SQL, Git commands and more:
