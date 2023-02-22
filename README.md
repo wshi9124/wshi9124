@@ -7,10 +7,13 @@ Below is where I keep my notes that I update daily. Notes include topics such as
 <br/>
 [Notes](https://github.com/wshi9124/data-structures-algorithms-and-system-design-notes)
 ######
-Contact me: wshi9124@gmail.com | [LinkedIn](https://www.linkedin.com/in/willie-shi-520798149/) | [Blog](https://dev.to/wshi9124)
+Contact me: wshi9124@gmail.com
 <div id="badges">
   <a href="https://www.linkedin.com/in/willie-shi">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"
+  </a>
+   <a href="https://dev.to/wshi9124">
+    <img src=https://custom-icon-badges.demolab.com/badge/-Blog-orange?style=for-the-badge&logo=comment-discussion&logoColor=black alt="LinkedIn Badge"
   </a>
 </div>
   
