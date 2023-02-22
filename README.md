@@ -1,11 +1,13 @@
 ## Hello World, Im Willie 👋
 I code...
+<img align="right" width="200px" height="200px" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 ######
 I am currently studying data structures and algorithms, as well as system design | [Notes [updated daily]](https://github.com/wshi9124/data-structures-algorithms-and-system-design-notes)
 ######
 Hobbies: Basketball 🏀, Cooking 🧑🏻‍🍳, Dragon Boat 🚣, Badminton 🏸, Traveling ✈️, Coding 👨🏻‍💻 
 ######
 Contact me: wshi9124@gmail.com | [LinkedIn](https://www.linkedin.com/in/willie-shi-520798149/) | [Blog](https://dev.to/wshi9124)
+
 
 ## Languages and Tools
 <img align="left" alt="JavaScript" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
