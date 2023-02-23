@@ -69,7 +69,7 @@ Contact me: wshi9124@gmail.com
 <br/>
 [Github Link](https://github.com/wshi9124/Pokemon-Team-Builder) | [Demo Video](https://youtu.be/EyGGHUOkxjY)
 <br/>
-[<img alt="PortfolioTracker" width="400px" src="https://user-images.githubusercontent.com/104730743/196293854-a3635144-4c8e-4311-993a-3e05475ce817.png" />](https://www.youtube.com/watch?v=EyGGHUOkxjY&ab_channel=WillieShi)
+[<img alt="Pokemon Team Builder" width="400px" src="https://user-images.githubusercontent.com/104730743/196293854-a3635144-4c8e-4311-993a-3e05475ce817.png" />](https://www.youtube.com/watch?v=EyGGHUOkxjY&ab_channel=WillieShi)
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wshi9124&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
