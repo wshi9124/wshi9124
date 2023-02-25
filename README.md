@@ -51,25 +51,25 @@ Contact me: wshi9124@gmail.com
 <br/>
 [Github Link](https://github.com/wshi9124/BK-Fish-Market) | [Deployed Link](http://54.152.24.233:4000/home)
 <br/>
-[<img alt="BKFish" width="400px" target="_blank" src=https://user-images.githubusercontent.com/104730743/193691309-0a6f4c55-ba09-4411-9a20-5247adebead5.png />](http://54.152.24.233:4000/home)
+[<img alt="BKFish" width="400px" src=https://user-images.githubusercontent.com/104730743/193691309-0a6f4c55-ba09-4411-9a20-5247adebead5.png />](http://54.152.24.233:4000/home)
 
 **Park-O**- social media site where users can organize park sporting events. This website features a real time messaging system that utilizes websockets and an access system where event admins can accept or decline members to their events. 
 <br/>
 [Github Link](https://github.com/wshi9124/Sports-park-organizer) | [Demo Video](https://youtu.be/Z8HKBXoNswg)
 <br/>
-[<img alt="Park-O" width="400px" target="_blank" src="https://user-images.githubusercontent.com/104730743/201763789-8808daaf-5ddf-4bf2-929d-a49b89db4e68.png" />](https://www.youtube.com/watch?v=Z8HKBXoNswg&ab_channel=WillieShi)
+[<img alt="Park-O" width="400px" src="https://user-images.githubusercontent.com/104730743/201763789-8808daaf-5ddf-4bf2-929d-a49b89db4e68.png" />](https://www.youtube.com/watch?v=Z8HKBXoNswg&ab_channel=WillieShi)
 
 **Portfolio Tracker**- stock trading platform simulator where users can search, organize, and research their personal stock holdings. 
 <br/>
 [Github Link](https://github.com/wshi9124/Portfolio-Tracker-) | [Demo Video](https://youtu.be/juVxJYn8nlE)
 <br/>
-[<img alt="PortfolioTracker" target="_blank" width="400px" src="https://user-images.githubusercontent.com/104730743/199075182-af3b80b1-470b-4735-8855-91d4d0892dee.png" />](https://www.youtube.com/watch?v=juVxJYn8nlE&ab_channel=WillieShi)
+[<img alt="PortfolioTracker" width="400px" src="https://user-images.githubusercontent.com/104730743/199075182-af3b80b1-470b-4735-8855-91d4d0892dee.png" />](https://www.youtube.com/watch?v=juVxJYn8nlE&ab_channel=WillieShi)
 
 **Pokémon Team Builder**- first project I made using vanilla JavaScript where users can build their own Pokémon teams.
 <br/>
 [Github Link](https://github.com/wshi9124/Pokemon-Team-Builder) | [Demo Video](https://youtu.be/EyGGHUOkxjY)
 <br/>
-[<img alt="Pokemon Team Builder" target="_blank" width="400px" src="https://user-images.githubusercontent.com/104730743/196293854-a3635144-4c8e-4311-993a-3e05475ce817.png" />](https://www.youtube.com/watch?v=EyGGHUOkxjY&ab_channel=WillieShi)
+[<img alt="Pokemon Team Builder" width="400px" src="https://user-images.githubusercontent.com/104730743/196293854-a3635144-4c8e-4311-993a-3e05475ce817.png" />](https://www.youtube.com/watch?v=EyGGHUOkxjY&ab_channel=WillieShi)
 
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wshi9124&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
