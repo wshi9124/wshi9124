@@ -10,7 +10,7 @@ Below is where I keep my notes that I update daily. Notes include topics such as
 ######
 Contact me: wshi9124@gmail.com
 <div id="badges">
-   <a href="https://www.linkedin.com/in/willie-shi](https://wshi9124.github.io/PortfolioSite/">
+   <a href="https://wshi9124.github.io/PortfolioSite/">
     <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio%20Website-purple?style=for-the-badge&logoColor=white&logo=repo" alt="Portfolio Badge"
   </a>
   <a href="https://www.linkedin.com/in/willie-shi">
