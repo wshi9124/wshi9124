@@ -77,7 +77,7 @@ Contact me: wshi9124@gmail.com
 ## Stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wshi9124&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-![Willie's GitHub stats](https://github-readme-stats.vercel.app/api?username=wshi9124&show_icons=true&theme=radical)
+
 
 
 
