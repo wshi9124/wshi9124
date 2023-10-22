@@ -57,7 +57,7 @@ Contact me: wshi9124@gmail.com
 <br/>
 [Github Link](https://github.com/wshi9124/BK-Fish-Market) | [Deployed Link](http://54.152.24.233:4000/home)
 <br/>
-[<img alt="BKFish" width="400px" src=https://user-images.githubusercontent.com/104730743/193691309-0a6f4c55-ba09-4411-9a20-5247adebead5.png />](http://100.26.188.139:4000/home)
+[<img alt="PortfolioTracker" width="400px" src="https://user-images.githubusercontent.com/104730743/199075182-af3b80b1-470b-4735-8855-91d4d0892dee.png" />](http://100.26.188.139:4000/home)
 
 **Park-O**- social media site where users can organize park sporting events. This website features a real time messaging system that utilizes websockets and an access system where event admins can accept or decline members to their events. 
 <br/>
