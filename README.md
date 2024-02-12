@@ -40,7 +40,7 @@ Contact me: wshi9124@gmail.com
 <img align="left" alt="SQLite" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 <img align="left" alt="MySQL" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"  />
 <img align="left" alt="BootStrap" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" />
-<img align="left" alt="Tailwind" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
+<img align="left" alt="Tailwind" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
 <img align="left" alt="Material" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" />
 <img align="left" alt="Git" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg" />
 <img align="left" alt="GitHub" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />  
