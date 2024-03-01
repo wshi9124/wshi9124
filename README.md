@@ -55,7 +55,7 @@ Contact me: wshi9124@gmail.com
 ## Featured Projects
 **BK Fish Market**- e-commerce site based on the needs and demands of a real client to promote their business. It includes both a user side to purchase products and an admin interface to edit, add, and deactivate products. 
 <br/>
-[Github Link](https://github.com/wshi9124/BK-Fish-Market) | [Deployed Link](http://100.26.188.139:4000/home)
+[Github Link](https://github.com/wshi9124/BK-Fish-Market) |
 <br/>
 [<img alt="BKFish" width="400px" src=https://user-images.githubusercontent.com/104730743/193691309-0a6f4c55-ba09-4411-9a20-5247adebead5.png />](http://100.26.188.139:4000/home)
 
