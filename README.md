@@ -6,6 +6,8 @@ I am a full stack software engineer based in NYC. Besides coding, I enjoy hobbie
 ######
 
 Contact me: wshi9124@gmail.com
+<br/>
+<br/>
 <div id="badges">
    <a href="https://wshi9124.github.io/PortfolioSite/">
     <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio%20Website-purple?style=for-the-badge&logoColor=white&logo=repo" alt="Portfolio Badge"
