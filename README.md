@@ -4,6 +4,9 @@
 ######
 I am a full stack software engineer based in NYC. Besides coding, I enjoy hobbies such as Basketball 🏀, Cooking 🧑🏻‍🍳, Dragon Boat 🚣, Badminton 🏸, and Traveling ✈️. 
 ######
+######
+######
+######
 
 Contact me: wshi9124@gmail.com
 <div id="badges">
