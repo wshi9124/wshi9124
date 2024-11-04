@@ -1,8 +1,8 @@
 ## Hello World, Im Willie 👋 
-<img align="right" width="310px" height="280px" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
+<img align="right" width="250px" height="250px" src="https://media.tenor.com/2uyENRmiUt0AAAAC/coding.gif">
 
 ######
-I am a full stack software engineer based in NYC. Besides coding, I enjoy hobbies such as Basketball 🏀, Cooking 🧑🏻‍🍳, Dragon Boat 🚣, Badminton 🏸, and Traveling ✈️. 
+I am a full stack software engineer based in NYC. Besides coding, I enjoy hobbies such as Basketball 🏀, Cooking 🧑🏻‍🍳, Dragon Boat 🚣, Badminton 🏸, and Traveling ✈️
 ######
 
 Contact me: wshi9124@gmail.com
